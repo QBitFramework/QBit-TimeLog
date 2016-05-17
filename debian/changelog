@@ -1,3 +1,9 @@
+libqbit-timelog-perl (0.5) saucy; urgency=low
+
+  * upload to cpan
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Tue, 17 May 2016 22:32:13 +0300
+
 libqbit-timelog-perl (0.4) saucy; urgency=low
 
   * Don't stringify timelog object in boolean context.
